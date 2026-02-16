@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/game/logic.ts","./src/game/storage.ts","./src/game/types.ts","./src/game/upgrades.ts","./tests/logic.test.ts","./vite.config.ts"],"version":"5.9.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/game/items.ts","./src/game/logic.ts","./src/game/storage.ts","./src/game/types.ts","./src/game/upgrades.ts","./tests/logic.test.ts","./vite.config.ts"],"version":"5.9.3"}
